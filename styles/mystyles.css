@@ -1,0 +1,23 @@
+h1, h2, h3, p, li, a, span, div, #homesub, .subheading{
+    font-family: "Poppins", sans-serif;
+}
+.nav-item{
+    font-size: 100px;
+    color: aqua;
+}
+.masthead{
+    color: aqua;
+    background-color: aqua;
+}
+.border-top{
+    margin-top: 50px;
+}
+#homeheading, #aboutheading{
+    text-align: center;
+    font-size: 125px;
+    line-height: 115px;
+}
+#resumeimg{
+    width: 100%;
+    margin: auto;
+}
