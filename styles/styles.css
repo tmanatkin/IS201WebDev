@@ -240,7 +240,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #0085A1;
+  color: #354f74;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -11221,7 +11221,7 @@ header.masthead .site-heading .h1 {
 }
 .post-preview > a:focus, .post-preview > a:hover {
   text-decoration: none;
-  color: #0085A1;
+  color: #354f74;
 }
 .post-preview > a > .post-title {
   font-size: 1.875rem;

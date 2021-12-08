@@ -1,23 +1,65 @@
-h1, h2, h3, p, li, a, span, div, #homesub, .subheading{
+body{
+    background-color: #fafafa;
+}
+main{
+    padding-bottom: 200px;
+}
+h1, p, li, a, span, div, #homesub, .subheading{
     font-family: "Poppins", sans-serif;
+    color: #222222;
 }
-.nav-item{
-    font-size: 100px;
-    color: aqua;
+h3, .border-top{
+    margin-top: 25px;
 }
-.masthead{
-    color: aqua;
-    background-color: aqua;
+img{
+    width: 100%;
+    margin-bottom: 25px;
 }
-.border-top{
-    margin-top: 50px;
+.interestcontainer{
+    width: 40%;
+    float:left;
+    margin: 0px 5% 0px 5%;
+    }
+.section-heading{
+    text-align: center;
+    font-size: 80px;
+}
+.fa-stack:hover{
+    color: #354f74;
+}
+.post-preview:hover{
+    color: #354f74;
+}
+.contactinfo{
+    width: 475px;
+    margin: auto;
+}
+.contactinfo p{
+    margin-top: 0px;
+}
+#interests{
+    width: 100%;
+    height: 34%;
+}
+#eatinginterest{
+    float: none;
+    margin-top: 100px;
+}
+.interestcontainerfull{
+    display: block;
+    float:inline-end;
+}
+#topaboutlink{
+    text-align: center;
+    margin: auto;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 20px;
 }
 #homeheading, #aboutheading{
     text-align: center;
-    font-size: 125px;
+    font-size: 115px;
     line-height: 115px;
-}
-#resumeimg{
-    width: 100%;
-    margin: auto;
+    color: #fafafa;
 }
