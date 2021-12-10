@@ -17,7 +17,7 @@ img{
 }
 .interestcontainer{
     width: 40%;
-    float:left;
+    float: left;
     margin: 0px 5% 0px 5%;
     }
 .section-heading{
@@ -47,7 +47,7 @@ img{
 }
 .interestcontainerfull{
     display: block;
-    float:inline-end;
+    float: inline-end;
 }
 #topaboutlink{
     text-align: center;

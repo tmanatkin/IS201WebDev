@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     margin: 0px;
     background-color: #fafafa;;
@@ -45,7 +48,7 @@ a:hover{
 .tableauchart{
     width: 100%;
     margin: auto;
-    height: 50%;
+    height: 50%;    
 }
 .chartdescription{
     margin: 0px 0px 50px 0px;
